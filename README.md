@@ -22,7 +22,7 @@ Para ejecutar este proyecto localmente, sigue estos pasos:
 1.  **Clona o Descarga el Repositorio:**
     Si estás usando Git, clona el repositorio:
     ```bash
-    git clone [URL_DE_TU_REPOSITORIO]
+    git clone [[URL_DE_TU_REPOSITORIO](https://github.com/jose54er/AMIGOSECRETOSsorteo)]
     ```
     Si no, descarga el archivo ZIP y extráelo en tu máquina.
 
