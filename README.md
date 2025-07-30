@@ -20,7 +20,7 @@ Este es un pequeño juego web interactivo que permite a los usuarios ingresar un
 Para ejecutar este proyecto localmente, sigue estos pasos:
 
 1.  **Clona o Descarga el Repositorio:**
-    Si estás usando Git, clona el repositorio:
+    Si estás usando Git, clona el repositorio:https://github.com/jose54er/AMIGOSECRETOSsorteo/tree/main
     ```bash
    [ git clone [(https://github.com/jose54er/AMIGOSECRETOSsorteo)](https://github.com/jose54er/AMIGOSECRETOSsorteo)
     ```
